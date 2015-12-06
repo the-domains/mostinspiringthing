@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#E0E8E8'
-    - '#000000'
-    - '#000000'
-    - '#000000'
-    - '#000000'
-  brandStrength: 0.7343002299636477
-  lightness: 0.3810494893831544
-  rhythmicContrast: 0.8633764447618055
-  saturation: 0.6461752352151966
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 1
+  lightness: 0.074324
+  rhythmicContrast: 0
+  saturation: 1
 cta: {}
-layout_spectrum: 0.4393717030090599
+layout_spectrum: 0
 name: MostInspiringThing
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.5510056638594034
+typography_spectrum: 1
