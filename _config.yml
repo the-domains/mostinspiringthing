@@ -1,15 +1,15 @@
 analytics: {}
 color:
   brandColors:
-    - '#D0B8C0'
-    - '#5E2736'
-    - '#98A8A8'
-    - '#C06880'
-    - '#000000'
-  brandStrength: 0.7343002299636477
-  lightness: 0.3810494893831544
-  rhythmicContrast: 0.8633764447618055
-  saturation: 0.6461752352151966
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.378378
+  lightness: 0.509009
+  rhythmicContrast: 0.27027
+  saturation: 1
 cta: {}
 layout_spectrum: 0.4393717030090599
 name: MostInspiringThing
