@@ -6,13 +6,13 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.7343
-  lightness: 0.524774
-  rhythmicContrast: 0
-  saturation: 0.042792
+  brandStrength: 0.7343002299636477
+  lightness: 0.3810494893831544
+  rhythmicContrast: 0.8633764447618055
+  saturation: 0.6461752352151966
 cta: {}
 layout_spectrum: 0.4393717030090599
 name: MostInspiringThing
 opengraph: {}
 purpose: {}
-typography_spectrum: 0.5510056638594034
+typography_spectrum: 1
