@@ -7,11 +7,11 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.378378
-  lightness: 0.509009
-  rhythmicContrast: 0.27027
-  saturation: 1
+  lightness: 0.576576
+  rhythmicContrast: 0
+  saturation: 0.626126
 cta: {}
-layout_spectrum: 0.4393717030090599
+layout_spectrum: 0.439371
 name: MostInspiringThing
 opengraph: {}
 purpose: {}
