@@ -1,20 +1,4 @@
-name: MostInspiringThing
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
-title: Most Inspiring Thing
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#9D2D3C'
@@ -23,10 +7,13 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.378378
-  lightness: 0
-  saturation: 0
+  lightness: 0.542792
   rhythmicContrast: 0.5
+  saturation: 0.509009
+cta: {}
+layout_spectrum: 1
+name: MostInspiringThing
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 1
